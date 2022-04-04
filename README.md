@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndreiAnt
+- 👀 I’m interested in HTML and CSS
+- 🌱 I’m currently studying at University POLITEHNICA of Bucharest
+- 📫 Get in touch at: antor.andrei@gmail.com
